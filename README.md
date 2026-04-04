@@ -17,8 +17,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran0548&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran0548&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran0548&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Kiran0548&theme=radical" height="170"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 - 🤖 Working on **Local AI Assistants & ML-based applications**
 - 🌱 Learning **Advanced Backend + System Design**
 - ⚡ Focused on **real-world deployable projects (not just demos)**
-- 💡 Love solving problems using **AI + Full Stack + IoT**
+- 💡 Passionate about **AI + Full Stack + IoT integration**
 
 ---
 
@@ -100,12 +100,12 @@ IoT-based safety system for detecting gas leaks.
 
 ---
 
-## 🧩 Fun Fact
-💡 I build systems that work even when the internet doesn’t 😎
-
----
-
 ## 🔥 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kiran0548&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+## 🧩 Fun Fact
+💡 I build systems that work even without the internet 😎

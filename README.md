@@ -1,4 +1,4 @@
-make it more beautiful and professional add more animation:-<h1 align="center">Hi 👋, I'm Kiran Kumar Sahu</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumar Sahu</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Systems Engineer | 🌐 IoT Enthusiast</h3>
 
 <p align="center">
@@ -45,11 +45,11 @@ make it more beautiful and professional add more animation:-<h1 align="center">H
 ### 🔐 [SecureVote](https://secure-vote-rho.vercel.app/)
 Secure blockchain-based voting system focused on transparency & security.
 
-### 🤖 Emma – Local AI Assistant
+### 🤖 Criminal Face recognition
 Offline AI assistant with memory, voice output, and modular architecture.
 
-### 🎬 Movie Master
-Cross-platform movie app using React Native and TMDB API.
+### 🎬 Dil-Se-Dil-Tak
+Cross-platform dating web using Java Full stack 
 
 ---
 
@@ -64,7 +64,7 @@ Cross-platform movie app using React Native and TMDB API.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Kiran0548">
+  <a href="https://www.linkedin.com/in/kiran548">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kiran0548@gmail.com">
